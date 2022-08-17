@@ -1,4 +1,4 @@
-# Hayden Newton Reusme
+# Hayden Newton Resume
 
 ## Education History
 Mcintosh Highschool 2022-2025
