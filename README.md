@@ -3,3 +3,4 @@ Hello, my name is Hayden, and this is my portfolio for my Introduction to Softwa
 
 ## Contents
 - [Resume](RESUME.md)
+- [Biary Logic](Binary-Logic.md)
