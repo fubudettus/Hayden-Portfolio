@@ -9,3 +9,7 @@ Mcintosh track team assistant
 ## Hobbies
 - Driving
 - Listening to music
+
+## Typing
+- Keys Learned
+ - J, F, Space, U, R, K, D, E, I, C, G, and N Keys
