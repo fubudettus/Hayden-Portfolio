@@ -13,3 +13,4 @@ Mcintosh track team assistant
 ## Typing
 - Keys Learned
  - J, F, Space, U, R, K, D, E, I, C, G, and N Keys
+- 47 WPM
