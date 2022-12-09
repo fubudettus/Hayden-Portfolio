@@ -8,7 +8,7 @@ int main() {
 	scanf("%i", &y);
 	printf("Enter 3rd number: ");
 	scanf("%i", &z);
-	printf("The sum of the three numbers is %i\n", x + y + z  );
+	printf("The sum of the three numbers is %i\n", );
 	return 0;
 }
 
